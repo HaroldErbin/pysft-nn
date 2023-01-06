@@ -1,0 +1,10 @@
+{
+    "model": "accessory_parameter",
+    "dense_layers": [
+        512,
+        128,
+        1028,
+        1
+    ],
+    "alpha": 0.5
+}

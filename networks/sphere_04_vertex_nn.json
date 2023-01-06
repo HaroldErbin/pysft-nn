@@ -1,0 +1,9 @@
+{
+    "model": "vertex_region",
+    "dense_layers": [
+        256,
+        32,
+        128
+    ],
+    "alpha": 0.8
+}
